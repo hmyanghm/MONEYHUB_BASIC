@@ -25,8 +25,8 @@ event_vue ={
 		'	<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>'+
 		'	<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NNBFK9V"></script>'+
 		'<!-- End Google Tag Manager -->'+
-		'	<link href="/products_static/css/common/pc.css" rel="stylesheet" type="text/css">'+
-		'	<link href="/products_static/css/event/list/style.css" rel="stylesheet" type="text/css">'+
+		'	<link href="https://www.kakaobank.com/products_static/css/common/pc.css" rel="stylesheet" type="text/css">'+
+		'	<link href="https://www.kakaobank.com/products_static/css/event/list/style.css" rel="stylesheet" type="text/css">'+
 		'</head>'
 	},
 	event_body : ()=>{
